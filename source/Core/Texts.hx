@@ -1,0 +1,160 @@
+package;
+
+
+class Texts
+{
+	public static var DESTINATIONS:Array<JostleEnums.SceneType> =
+	[
+	CAFE,
+	PARK,
+	STORE,
+	GYM,
+	DISCO,
+	CINEMA,
+	CHURCH,
+	];
+
+	public static var CAFES:Array<Array<String>> = 
+	[
+	["BITTER CUP","28TH & LONELY ST",""],
+	["COFFEE GROUNDS","3RD & THORSTEN",""],
+	["HALF EMPTY CAFE","FAINT HOPE ST W",""],
+	["TRUE GRIT","MEAGRE RD & 66TH",""],
+	["SOUR BREW","FRITZ AVE & 109TH",""],
+	["DISAPPOINTMENT CAFE","23RD ST & NAUSEA",""],
+	["COFFEE ALONE","XAVIER DR",""],
+	["NEGATIVE TASTE","ABSENT HEART DR",""],
+	];
+
+	public static var RESTAURANTS:Array<Array<String>> = 
+	[
+	["HORVATH STEW","1ST & LAST",""],
+	["PLATE OF MUCK","112TH ST & FURY",""],
+	["FLY SOUP","-10TH STREET & WATER",""],
+	["EAT WHAT YOU'RE GIVEN","CUT RD",""],
+	["THE GREASY FLOOR","NEVERMORE LANE",""],
+	["HICCUPS","23RD & 23RD",""],
+	["FLUNCH","BASEMENT",""],
+	["GROTESQUE'S","GREYSCALE MALL",""],
+	["TABLE FOR ONE","TAPTAP ST",""]
+	];
+
+	public static var BARS:Array<Array<String>> = 
+	[
+	["LAST CALL","279TH STREET & TOPRAK RD",""],
+	["CIRRHOSIS CABIN","RUN RD & GUN ST",""],
+	["THE WATERING DOWN HOLE","NO GIVEN ADDRESS",""],
+	["LIVE TO DRINK","WHISKEY LANE",""],
+	["DRINK TO LIVE","SUCK ST",""],
+	["PUKEMS","8TH & ASTERISK",""],
+	["NO TABS","MIDTOWN",""],
+	["BETTY'S SHITHOLE","WEST AVENUE",""],
+	["DRUNKEN DONUTS","UNDER THE BRIDGE",""],
+	["COSTANTINO'S","UNDER THE BRIDGE",""]
+	];
+
+	public static var JAILS:Array<Array<String>> = 
+	[
+	["SERVING TIME","JAIL"],
+	["SOLITARY","JAIL"],
+	["DOING TIME","JAIL"],
+	["LOCKED UP","JAIL"],
+	["PUT AWAY","JAIL"],
+	["BEHIND BARS","JAIL"],
+	["LOCKED UP","THE JAIL"],
+	["SERVING TIME","JAIL"],
+	["IN THE HOLE","JAIL"]
+	];
+
+	public static var STORES:Array<Array<String>> = 
+	[
+	["9-11","22ND & FREEDOM WAY",""],
+	["GUM & THINGS","8TH & 9TH",""],
+	["A BUNCH OF CRAP","HAUSER ST",""],
+	["7 HANDS","RODOLFU ST",""],
+	["GUNS 'N' GUM","DYSTOPIA DR",""],
+	["NOTHING SPECIAL","BLAND ST & IDA AVE",""],
+	["31 FLAVOURS OF GUM","ROBBINS LN",""],
+	["THE GUM FACTORY","INDUSTRIAL ESTATES",""],
+	["CHEAP GUM","SHIT ST",""]
+	];
+
+	public static var PHARMACIES:Array<Array<String>> = 
+	[
+	["D.R.U.G.S.","CHRISTOPHER ST",""],
+	["DRUGMART","GLOOP ST & GRIME AVE",""],
+	["BIG PHARMA","MEAN JOE GREEN ST",""],
+	["PILLS & PESTLES","OLD CITY ST",""],
+	["PHARMANAUTICS","RIVERFRONT DR",""],
+	["DOCTOR DOCTOR","MAGNUS AVE",""],
+	["MEDIC!","SPIN RD",""],
+	["METHADONE AND MORE","THE CALLOUS MALL",""],
+	["VACCINES AND VITTLES","NORTH SOUTH ST",""]
+	];
+
+	public static var BOOKSTORES:Array<Array<String>> = 
+	[
+	["Y KANT TORI READ?","AMOS AVE",""],
+	["LOTSA BOOKS","THE LITERARY QUARTER",""],
+	["MILDEW'S","SOUTH HONX",""],
+	["YOUR FLYLEAF'S OPEN","519TH ST & ALABASTER",""],
+	["BOOKS ABOUT CARPET","CALLEJA CUL DE SAC",""],
+	["BIBLES & BIBLES","ST. AUGUSTINE CHURCH",""],
+	["THE FURROWED BROW","NO ST & 109TH DR",""],
+	["CASTLE'S DOCTRINES","SUMMER HEIGHTS GATED COMMUNITY",""],
+	["EPISTLES 'N' PULP","SUPER DUPER DR",""]
+	];
+
+	public static var GYMS:Array<Array<String>> = 
+	[
+	["DOUBLE PUMP","BICEPS ST & AMANI AVE",""],
+	["SWEATIN BEATS","M ST & 8TH AVE",""],
+	["BIG BULGES","CLEMENTINE MALL",""],
+	["GROSS STARING DUDES GYMNASIUM","BUN ST & ASS AVE",""],
+	["AEROBICS ODD STYLE","KANGAROO LANE",""],
+	["JAZZICIDE","MINGUS ST & COLTRANE LANE",""],
+	["BUNS R US","BACKSTREET ST",""],
+	["THE SMELL OF FITNESS","SWEAT ST",""],
+	];
+
+	public static var DISCOS:Array<Array<String>> = 
+	[
+	["LET'S DANCE","BOWIE BLVD",""],
+	["THE DANCEHALL","STRAIGHT ST",""],
+	["AWKWARD EYE CONTACT DISCO","JOON AVE",""],
+	["YOU'RE GOING HOME ALONE","DEAD END DR",""],
+	["SAD SONGS DANCE DIVE","ODOUR AVE",""],
+	["DANCE OR DIE","ONE ST & TWO ST",""],
+	["HEAD BANGERS'S","PUNK DR",""],
+	["DIRTY DANCERS","SWAYZE LANE",""],
+	];
+
+	public static var PARKS:Array<Array<String>> = 
+	[
+	["SUBSISTENCE PUBLIC PARK","108TH ST",""],
+	["GREY GARDENS","BEALE ST",""],
+	["OFF-CENTER PARK","MAIN LINE ST",""],
+	["PORK PARK","PIG ST",""],
+	["TREES 'N' SHIT","CENTERTOWN MALL",""],
+	["DIRT PATCH PARK","BEHIND THE FACTORY",""],
+	["UNPLEASANT PARK","HOOPER ST & 88TH AVE",""],
+	["GRIM ST PARK","GRIM ST",""],
+	];
+
+	public static var CINEMAS:Array<Array<String>> = 
+	[
+	["GREYSTONE MULTIPLEX","TOOTH ST",""],
+	["THE DESERTED MALL","NOWHERE AVE",""],
+	["PULPY PICTURES","NEVERMIND DR",""],
+	["SIDSEL CINEMAS","HERMAN DR",""],
+	];
+
+	public static var CHURCHES:Array<Array<String>> = 
+	[
+	["OUR LADY OF SADNESS","TRISTESSE BLVD",""],
+	["ON YOUR KNEES CHURCH","ENFER AVE",""],
+	["LAST CHANCE CHURCH","SIN ST",""],
+	["ST. ASHLEY'S","SIN ST",""],
+	];
+
+}

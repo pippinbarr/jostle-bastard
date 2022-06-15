@@ -1,0 +1,20 @@
+-main ApplicationMain 
+-lib nme
+-lib flixel
+-lib box2d
+-cp source
+-cp /usr/lib/haxe/lib/nme/3,5,5/
+-cp /usr/lib/haxe/lib/flixel/1,09/
+-D nme_install_tool
+-D html5
+-D web
+-resource /Users/pippin/Dropbox/Develop/HaxeFlixel/JostleBastard/assets/data/courier.ttf.hash@NME_assets_data_courier_ttf
+-resource /Users/pippin/Dropbox/Develop/HaxeFlixel/JostleBastard/assets/data/nokiafc22.ttf.hash@NME_assets_data_nokiafc22_ttf
+-js export/html5/bin/JostleBastard.js
+-cp export/html5/haxe
+-D html5
+-D html
+--remap flash:nme
+--remap native:browser
+-debug
+--js-modern

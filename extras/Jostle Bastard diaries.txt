@@ -1,0 +1,238 @@
+Jostle Bastard Diary
+
+9 / 9 / 12
+
+@bastard jostle
+Joel from Electron Dance suggested a longer version of this title for LV Beatdown, but it sounds like a whole new game. I have more Atari style visions, I guess because of the current game. But something simple and button mashy where you're fighting your way through crowds and alternating keys to "jostle". Maybe random stuff like "NICE JOSTLE!" and so on.
+
+9 / 1 / 13
+
+Looking forward to maybe making Jostle Bastard afterwards though.
+As a thing about violence and Hotline Miami I think.
+We'll see.
+
+23 / 1 / 13
+
+Jostle Bastard is coming along design wise.
+
+28 / 1 / 13
+
+Need to think about Jostle Bastard/Bitch today.
+What was the point again, for instance?
+I thought it was about violence, but I wasn't able to explain it to my parents very well.
+Hmm.
+Is it too small a gesture at too large an issue?
+But I still think it's funny anyway.
+Oh hmmm.
+Anyway.
+
+5 / 2 / 13
+
+And we're going to go to Mint and while there I'll hopefully come up with ideas for the Mumble Indie Bungle, since I think I'll forgo Jostle Bastard for now - it needs some more conceptual clarity before I can put it together.
+
+21 / 5 / 13
+
+Start Jostle Bastard.
+
+27 / 5 / 13
+
+Tonight I will perhaps work on Haxe stuff for Jostle Bastard.
+Only publishing to SWF in this instance, but it'll be nice to have made something with Haxe and to go on from there.
+
+31 / 5 / 13
+
+Next thing is to dig into Jostle Bastard more thoroughly.
+
+2 / 6 / 13
+
+Major next step I think is to hack together a prototype of Jostle Bastard in Haxe and just get something working, shouldn't be too bad.
+Yep.
+
+>>> 4 / 6 / 13 : First actual prototype built today <<<
+
+6 / 6 / 13
+
+Important I am so important.
+Today it's time to work solidly on Jostle Bastard (worried about collision stuff and so on but it's time to learn a bit more).
+
+7 / 6 / 13
+
+Today I fought with collision code for Jostle Bastard.
+I have a decent "jostling" action, decent chasing code, the ability to run into solid objects, and the ability of non-jostlers to stop politely when faced with someone being in their way while moving.
+Next up is setting up paths of motion and transitions between "moods".
+
+19 / 6 / 13
+
+Haven't even touched JB for quite a while. Not good not good at all.
+Still, I'm working.
+
+21 / 6 / 13
+
+Theoretically should do JB but just can't bring myself to.
+Dearest future me I am so tired I am so sorry.
+
+22 / 6 / 13
+
+JB languishing.
+
+13 / 7 / 13
+
+Basically I "just" have Jostle Bastard and dMAI now.
+So the plan is to return a bit to Jostle Bastard today.
+But also to read novels I think. Or that Click Here book. At a Lido. With a gin and tonic. Yes indeed my friend.
+Okay, that's me. What about you?
+Oh, you're me.
+
+15 / 7 / 13
+
+No Jostle Bastard yesterday, fail.
+Today I will get some shit done on it though.
+I will break through the wall! I WILL!
+Feelings are: okay.
+
+16 / 7 / 13
+
+And am I fucked with JB or do I just kind of build it from scratch and be careful?
+I think that.
+
+22 / 7 / 13
+
+Need to start looking at either dMAI or Jostle Bastard.
+But feels actually like things might be okay from here.
+Just want to make more good things you know?
+
+23 / 7 / 13
+
+Sweaty.
+Working on Jostle Bastard.
+Actually made some genuine progress!
+Reworking the code and realised I can make chairs and tables all separate so you can really disorder the place! I might even give them all assignable masses too i think, so some things are harder to move around… or are they already doing that thanks to their hit shape? Dunno. Will check it out anyway. May be better to be able to assign it manually for tweaking purposes.
+Anyway, plan for today is to get as much Jostling done as humanly possible!
+That is the plan.
+
+26 / 7 / 13
+
+Good morning of work today, and yesterday was good too - progress on Jostle Bastard. Actually got collision stuff hugely sorted, got paths going with people walking around successfully, pretty certain I'll be able to determine things for the scoring system, started thinking it would be cool to have peaceful options for the game as well.
+
+29 / 7 / 13
+
+And Jostle Bastard I at least kind of know what to do with, and with a few more steps would have maybe a playable level.
+I've been learning stuff and I think making some smarter decisions with code, these are all good things.
+And it's quite hot but not so hot.
+
+18 / 8 / 13
+
+Though I've done some on Jostle Bastard and two other games in that time.
+We're back in Malta after having been in Paris for two weeks.
+
+19 / 8 / 13
+
+A longish day of doing Jostle Bastard.
+Not a lot of progress if we're being honest.
+Tried to do recolouring stuff and it basically all fucked up.
+Did I even get anything else done? Perhaps not. Jesus.
+Well anyway, I'll maybe attempt to do some reaction stuff for the people to being jostled. I guess they need some kind of "mood" that determines how they behave.
+Anyway yeah, here I am, existing.
+Is making games like this a good thing? So very hard to tell mon frère.
+Oh well.
+
+10 / 9 / 13
+
+Plus there is Jostle Bastard, which I'm going to look at now and which makes me feel fearful.
+And which just is lacking in juice, quite frankly.
+But which I need to just jump into.
+I literally have no MAI work right now, like nothing, so now it the time to try to finish JB before teaching starts. That is the plan.
+Okay so that is the plan.
+
+11 / 9 / 13
+
+Instead I should be working on JB and I should be drawing a day of the dead game image…
+And JB is in a delicate position… do I consider the cafe state essentially "done" or not?
+
+17 / 9 / 13
+
+Fucking hell. Been on a JB bender for the last week. Not even a week, 6 days. Fucking hell.
+So since last entry I did finalise the cafe and then… made almost the entire rest of the game as well.
+So now there are like 10 scenes or something, there's a tutorial, there's an apartment, there are narrative elements, and on and on and on… a lot of stuff can happen in the game now.
+The major thing that happened I guess is just totally embracing its HLM thing. Like that it's okay and interesting to make a game about another game and that there's something good about that.
+Even if it's critical.
+Hm.
+So yeah - now it's this pretty big game, one of the bigger games I've made oddly.
+Biggest thing missing is music. So today I'm going to try to make some procedural stuff if I can. We'll see how that might work out. Maybe terrible. But I'll try it out. Need something lo-fi which should make it easier.
+Plus I've been in communication with Stu a bunch more and so I feel a lifting of the extreme guilts I've had about getting this thing fucking done.
+Yeah so here we are
+The only problem is I'm super tired from all the work. Last couple of months have been an insanity of game making. Have made something on the order of 8 games. Of different scales of course but I mean two of them (JB and dMAI) were quite substantial thanks very much.
+
+Three hours later.
+Made a music system that kind of actually worked amazingly enough. It doesn't sound quite like HLM in the way I wanted, but it sounds kind of interesting which is a start. Needs a more melodic part than it has now and a bit more work on the timing of drums etc. I suppose. Maybe can just define specific drum-lines.
+I think it's conceivable that I also fit in making a little website with viewable versions of JB since it started… about 40 builds all playable. Kind of an awesome thing actually. Could probably add a few more if I can be bothered to look at this. Kind of wish there was a way to download all versions from dropbox, would speed things up.
+Anyway a good day actually so far.
+
+23 / 9 / 13
+
+Well JB is all "finished" for now pending feedback from Stu. But I got a kind of music thing worked out in the end - went with just drums and Gordon had the bright idea of "beat matching" the jostling sound to the drums so it's all consistent.
+Liking where I'm at with making things still. JB is pretty solid. THe remake of dMAI is coming well. Will be able to release to public. And will be able to release housework games to public too. All going nicely.
+
+26 / 9 / 13
+
+Gordon had a couple of fun ideas for JB which I'll try to implement over the weekend. Notably a movie theatre, children, potentially a classroom (children again) and the idea of people breaking into your home to attack you because you're a dickhead.
+
+28 / 9 / 13
+
+Jostle Bastard is back on the cards now I suppose.
+
+9 / 10 / 13
+
+Jostle Bastard is basically done and I'm basically proud of it. It needs a better title screen but for some reason I'm not coming up with one. Maybe the dance floor graphic of alternating tiles or something is a good way to go? Hm.
+Anyway the first Playable game came out the other day by Ian Snyder and it's pretty impressive… a very beautiful musical toy… makes me feel *some* concern about the awesomeness or not of my own thing, but I think JB is very me and that's the point of the whole thing.
+So yeah should be okay.
+
+
+11 / 10 / 13
+
+Jostle Bastard and dMAI, they're done pending the slightest of things.
+
+30 / 10 / 13
+
+Have a nice list of 13 testers for Jostle Bastard, so will get them the game shortly in order to begin with that.
+Tried compiling it into HTML5 but… no dice, massively did not work. Text alignment was fucked, stuff didn’t appear on the screen. Not great.
+Until that’s a priority for haxeflixel it’s going to be tricky to go that way.
+
+7 / 11 / 13
+
+
+Tomorrow I might spend some time on JB though I think, take in some of the testing feedback.
+Loaded it up during class today actually and felt really positive about it, I think it actually looks kind of awesome, and it’s definitely pretty comedic, got some good laughs.
+I really do end up thinking about these games almost as standup in some ways, so “getting a laugh” is an important component of it.
+Ummmm…
+
+12 / 11 / 13
+
+I have a cup of tea.
+I have to get Jostle Bastard into a final state as we’re looking at releasing it next week. I honestly think what we have, materials wise, is kind of amazing… the game, the memory lane, the diaries, the notebook pages, and the letters (correspondence between Stu and me). That’s an amazingly deep insight into a game that you just never really get I think. I’m hopeful that people will react positively to it.
+But yeah, I do still actually have to get into final touches with the game itself, which means tweaking revenge and a few other things. Benedict (I think) pointed out that some of the place names were more distractions than genuinely funny… he noted the one of “Shaven Lane” which is, I have to agree, a bit much. So I’ll comb through those. Thinking about adding the testers’ names into the place names as a “thanks”. Or at least an acknowledgement of them.
+But overall I think the testers’ feedback was so philosophical and interesting… not so much the usability (which seems like it was baaaaasically fine) as the deeper stuff, which is perfect. Of course, they’re self selected so they’re more likely to take that kind of perspective.
+But yes, that’s good.
+
+13 / 11 / 13
+
+
+I really need to do some Jostle Bastard today, that’s my core priority. It is it is it is it is. It is okay? Listen to me, it is.
+I have plenty of things to tweak care of the testers. And I really need to tweak them. I’m a *bit* concerned about getting obsessive about these changes and going down rabbit holes and trying to make the game “perfect” when that doesn’t mean anything.
+Like should it have a postmodern step-away moment where the game makes some sort of reference to being a game? Again, like HLM? Or is that just kind of dumb and moving away from the point of the game (which is to make jostling a kind of endless hell?).
+Unsure.
+Requires thought.
+Why do so many things require thought?
+Oh well.
+
+14 / 11 / 13
+
+
+Dear diary,
+It is 9:56 in the morning and I should start working on things. Like “final” changes to Jostle Bastard. Haha, yes, that word “final”.
+But anyway, did manage to do a bunch of stuff last night in response to tester feedback. One of the more agonizing (and interesting) ones concerned the “revenge” people. One of the testers had encountered this situation where he was trying to be a good guy, but then people came for revenge and started beating him up (well, jostling him), and he thought he would just go for Gandhi style passive resistance, and then they called the cops and he thought “oh good, they’ll save me”, but then the cops arrested him. Obviously, because that’s all they know how to do in the game… which is, in itself, kind of funny and a weird reflection, almost, of some kind of class warfare (where “class” means your role in the game… RPGs, get it?)… or something, jesus, off track here. Anyway, the game doesn’t (and I can’t be bothered to code it to) check whether you were the trouble-maker or not… and that works because nobody reacts violently unless you started it, basically. But the avengers mess that up because, although they respond to you having started it, they do so at a later time, when you might be keeping a low profile.
+AAAAAAANYWAY.
+The “solution” at the moment is to only let the avengers show up in your apartment (or in the alley if you live there). This has a pleasing sense of violation and consequence, which is the point of that aspect of the game, and is in some ways even better because the police *don’t come* to those locations… so you really just have to run away from them or jostle forever. Which is kind of sad and horrible. And thus good, particularly if you were trying to turn your life around. Speaking of which I’ve added a “turning your life around” mechanic now too, so with good behaviour people are less likely to seek revenge in general.
+But yeah… so much weird philosophy gets mixed into this pastel/dayglo game.
+That’s the way it is.
+Can’t say I’m not aware that this is probably going to be on Unwinnable, this diary entry. So I’m probably being a bit more explainy than necessary. On the other hand, I blog so much less lately that I need to explain these things to my future self as much as anyway. Just mansplaining to myself. Mano a mano.
